@@ -1,0 +1,39 @@
+===========================
+Bash Scripting Assignment
+Self-Assessment - Abhishek Sharma
+ID -  1000117797
+================******/
+
+What I Learned:
+
+- Bash and CSV file automated user creation.
+- Parsing of input using `IFS` and `read`.
+- bash conditional statements, loops, handling strings.
+- Files and folder permission management.
+- backup and archiving with `tar`.
+- use of symbolic links with `ln -s`.
+
+What Was Easy:
+
+- Writing simple bash syntax coding.
+- Using commands like `useradd`, `mkdir`, `groupadd`, `chmod`, `ln`.
+
+What Was Challenging:
+
+- Group creation with more than one group in one field.
+- Handling folder ownership and permissions dynamically.
+- Symbolic links creation in a correct manner with correct paths.
+- User creation test without affecting system users.
+- Ensuring error handling and prompt messages in backup script.
+
+How I Overcame the Challenges:
+
+- Attempted scripts in a Docker container for security.
+- Used `read -r` and `IFS` with care so that it doesn't disrupt CSV parsing.
+- Debugged by adding additional `echo` statements for the variables.
+- Asked peers and ChatGPT for clarification.
+- Tested script operation by manually verifying creation of user, group, and folder.
+
+Final Thoughts:
+
+This assignment improved my skill in Linux, file systems, and bash scripting. I can now automate repetitive jobs with simple and effective scripts.
