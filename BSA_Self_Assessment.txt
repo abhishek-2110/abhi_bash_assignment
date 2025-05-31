@@ -1,0 +1,11 @@
+BSA Self Assessment - Bash Scripting Automation Project
+
+- I successfully created a user management script that reads a CSV file.
+- The script extracts usernames, formats passwords, and adds users to the correct groups.
+- Shared folders are created with correct permissions.
+- Symbolic links to shared folders are placed in each user's home directory.
+- I followed best practices in Git and Docker.
+- README contains setup and usage instructions.
+
+Date: 28 May 2025
+Author: Abhishek Sharma
